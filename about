@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>About</title>
+		<link rel="stylesheet" href="css/typography.css" type="text/css" charset="utf-8">
+		<link rel="stylesheet" href="css/navigation.css" type="text/css" charset="utf-8">
+		<link rel="stylesheet" href="css/sidebar.css" type="text/css" charset="utf-8">		
+		<link rel="stylesheet" href="css/gallery.css" type="text/css" charset="utf-8">
+		<link rel="stylesheet" href="css/container.css" type="text/css" charset="utf-8">
+	</head>
+	<body>		
+		
+		<div class="container">
+			<div class="header">
+				<h1>Simply Recipes</h1>
+				
+				<div class="nav">
+				<nav>
+					<ul>
+						<li><a href="index.html">HOME</a></li>
+						<li><a href="about.html">ABOUT</a></li>
+						<li><a href="contact.html">CONTACT</a></li>				
+					</ul>
+				</nav>
+				</div>
+			
+			</div>
+			
+			<div class="featured">
+				<div class="text">
+					<h4>Recipe of the weekend</h4>
+					<p>We're celebrating summer's amazing fruit bounty - join us!</p>
+					<a href="#">Read more</a>
+				</div>
+				
+			</div>			
+			
+			<div class="main">
+				<div class="sidebar">
+					<h2>Recipes</h2>
+					<ul>
+						<li>
+							<a href="#">Main ingredient</a>
+							<ul>
+								<li><a href="#">Chicken</a></li>
+								<li><a href="#">Beef</a></li>
+								<li><a href="#">Pasta</a></li>
+								<li><a href="#">Rice</a></li>							
+							</ul>
+						</li>
+						<li>
+							<a href="#">Meals and courses</a>
+							<ul>
+								<li><a href="#">Breakfast</a></li>
+								<li><a href="#">Snacks</a></li>
+								<li><a href="#">Mains</a></li>
+								<li><a href="#">Desserts</a></li>							
+							</ul>
+						</li>
+						<li>
+							<a href="#">World food</a>
+							<ul>
+								<li><a href="#">French</a></li>
+								<li><a href="#">Mexican</a></li>
+								<li><a href="#">Indian</a></li>
+								<li><a href="#">Chinese</a></li>							
+							</ul>
+						</li>
+						<li>
+							<a href="#">Season</a>
+							<ul>
+								<li><a href="#">Christmas</a></li>
+								<li><a href="#">Easter</a></li>
+								<li><a href="#">Summer</a></li>
+								<li><a href="#">Winter</a></li>							
+							</ul>
+						</li>	
+					</ul>
+				</div>
+				
+				<div class="section">
+					<h3>About Simply Recipes</h3>
+					<p class="div">If you are unfamiliar with Simply Recipes, please allow me to take a moment to introduce you to the site. The first thing you should know is that Simply Recipes is a blog or a personal website, created and maintained by me, Elise Bauer.</p>
+					<p class="div">Unlike most of the large recipe sites that you might find on the Internet with tens of thousands of recipes, Simply Recipes is my personal website. The recipes are all tested (often several times) by me, my family or my friends.</p>
+					<p class="div">We invite you to try the recipes, and if you would like, leave constructive feedback in the comments. Do you have a recipe binder or box of recipe index cards? Think of this site as our family sharing the recipes in our recipe binder with you. As we cook the recipes multiple times, we often think of improvements and update the recipes. So keep in mind that what you see here is a work in progress.</p>
+				</div>
+			</div>
+			
+			<div class="footer">				
+					
+				<section>					
+					<h3>Section</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eum qui audiebant, quoad poterant, defendebant sententiam suam.</p>
+				</section>				
+				
+				<section>
+					<h3>Section</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eum qui audiebant, quoad poterant, defendebant sententiam suam.</p>
+				</section>
+				
+				<section>
+					<h3>Section</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eum qui audiebant, quoad poterant, defendebant sententiam suam.</p>					
+				</section>										
+			</div>
+		
+		</div>
+		
+	
+	</body>
+</html>
